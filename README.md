@@ -2,11 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1EAJwtr5TiuYW4wl_h8-RiXTNg7fzK10Z
+**This project presents an interactive, glowing Christmas tree that responds fluidly to user interaction. The tree is built from sparkling particles and decorative ornaments, forming a vibrant, bling-like structure. Through hand gestures or mouse input, the tree can be rotated, viewed from different angles, and dramatically unleashed into a cosmic nebula, with particles and ornaments dispersing across the scene like stardust. When the interaction relaxes, everything smoothly reassembles into the original tree, creating a calm, magical loop that blends festive warmth with a dream-like, immersive atmosphere.**
 
 ## Run Locally
 
