@@ -1,0 +1,7 @@
+{
+  "name": "ChristmasTree",
+  "description": "A high-fidelity 3D Christmas experience featuring a cinematic pink and gold energy particle tree with falling snow and rotating base rings, built with React Three Fiber and Shaders.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
