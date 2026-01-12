@@ -4,7 +4,7 @@
 
 
 **This project presents an interactive, glowing Christmas tree that responds fluidly to user interaction. The tree is built from sparkling particles and decorative ornaments, forming a vibrant, bling-like structure. Through hand gestures or mouse input, the tree can be rotated, viewed from different angles, and dramatically unleashed into a cosmic nebula, with particles and ornaments dispersing across the scene like stardust. When the interaction relaxes, everything smoothly reassembles into the original tree, creating a calm, magical loop that blends festive warmth with a dream-like, immersive atmosphere.
-https://christmastree-770149983006.us-west1.run.app/**
+Demo link: https://christmastree-770149983006.us-west1.run.app/**
 
 ## Run Locally
 
